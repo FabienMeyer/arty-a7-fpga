@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "arty_a7_fpga") (type "KiCad") (uri "${KIPRJMOD}/arty_a7_fpga.pretty") (options "") (descr ""))
+)
