@@ -630,14 +630,9 @@
         "filename": "arty_a7_fpga.kicad_sch",
         "name": "arty_a7_fpga",
         "uuid": "79c515c8-03a8-4834-b9b6-b93caa7f419a"
-      },
-      {
-        "filename": "arty_a7_fpga.kicad_sch",
-        "name": "pmod",
-        "uuid": "0f89c188-d02e-40f9-8135-258e2c7920f2"
       }
     ],
-    "used_designators": "JA1,JB1,JC1,#PWR1-16,JD1",
+    "used_designators": "#PWR1-34,R1-38,J1-4,M1-6",
     "variants": []
   },
   "sheets": [
@@ -646,8 +641,16 @@
       "arty_a7_fpga"
     ],
     [
-      "0f89c188-d02e-40f9-8135-258e2c7920f2",
-      "pmod"
+      "a4189f5f-97b3-4de0-b5a8-582e900c955e",
+      "arty_connector"
+    ],
+    [
+      "f9cfb921-5431-4c2b-b3c1-a1d36970eba1",
+      "fan1"
+    ],
+    [
+      "98bece42-a340-4b1f-8ed2-2f6e9f9cd5f5",
+      "fan2"
     ]
   ],
   "text_variables": {},
